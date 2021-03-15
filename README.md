@@ -2,7 +2,7 @@
 
 Core Message: We aim to determine the correlation between self-reported mask-wearing behavior per U.S. county and COVID-19 case rate and death rate per county as of July 14, 2020.
 
-1.	The questions we found interesting:
+1.	The questions we found interesting:\
 a.	Is there a correlation between COVID cases per 100,000 pop. and:
 i.	lower mask-wearing score?
 ii.	higher population density?
