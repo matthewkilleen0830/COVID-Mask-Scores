@@ -1,5 +1,7 @@
 # Self-Reported Mask Wearing and COVID-19 Cases and Deaths by County
 
+(Images/mask.png)
+
 Core Message: &nbsp;We aim to determine the correlation between self-reported mask-wearing behavior per U.S. county and COVID-19 case rate and death rate per county as of July 14, 2020.
 
 1. &nbsp;The questions we found interesting:
